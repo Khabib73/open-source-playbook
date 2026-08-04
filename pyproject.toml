@@ -1,0 +1,18 @@
+[project]
+name = "open-source-playbook"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Khabib",email = "136262760+Khabib73@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "open_source_playbook", from = "src"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
