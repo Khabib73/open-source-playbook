@@ -3,9 +3,9 @@ name: CI
 on:
   push:
     branches: [master]
-    paths: ['docs/**', 'mkdocs.yml', 'pyproject.toml', 'README.md']
+    paths: ['docs/**', 'mkdocs.yml', 'pyproject.toml', 'README.md', 'COMMUNICATION.md']
   pull_request:
-    paths: ['docs/**', 'mkdocs.yml', 'pyproject.toml', 'README.md']
+    paths: ['docs/**', 'mkdocs.yml', 'pyproject.toml', 'README.md', 'COMMUNICATION.md']
   workflow_dispatch:
 
 permissions:
