@@ -1,11 +1,11 @@
-name: Docs
+name: CI
 
 on:
   push:
     branches: [master]
-    paths: ['docs/**', 'mkdocs.yml', 'pyproject.toml']
+    paths: ['docs/**', 'mkdocs.yml', 'pyproject.toml', 'README.md']
   pull_request:
-    paths: ['docs/**', 'mkdocs.yml', 'pyproject.toml']
+    paths: ['docs/**', 'mkdocs.yml', 'pyproject.toml', 'README.md']
   workflow_dispatch:
 
 permissions:
@@ -22,9 +22,18 @@ jobs:
         with:
           python-version: '3.14'
           
+      - name: Install poetry
+        run: |
+          curl -sSL 'https://install.python-poetry.org' | python
+
+          # Adding `poetry` to `$PATH`:
+          echo "$HOME/.poetry/bin" >> "$GITHUB_PATH"
         
       - name: Install dependencies
-        run: pip install mkdocs mkdocs-material
+        run: |
+          poetry config virtualenvs.in-project true
+          poetry run pip install -U pip
+          poetry install
 
-      - name: Build documentation
-        run: mkdocs build --strict
+      - name: Run tests
+        run: make test
