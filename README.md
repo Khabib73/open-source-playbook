@@ -1,4 +1,4 @@
-# open-source-playbook
+# open-source-playbook ⭐️
 
 [![GitHub stars](https://img.shields.io/github/stars/khabib73/open-source-playbook?style=social)](https://github.com/Khabib73/open-source-playbook)
 
