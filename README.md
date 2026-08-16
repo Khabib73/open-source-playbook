@@ -1,5 +1,7 @@
 # open-source-playbook
 
+[![GitHub stars](https://img.shields.io/github/stars/khabib73/open-source-playbook?style=social)](https://github.com/Khabib73/open-source-playbook)
+
 A practical guide to effective communication in the open-source community — especially for non-native English speakers.
 
 ## What is open-source-playbook
