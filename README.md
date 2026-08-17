@@ -61,10 +61,8 @@ Disagreements are natural, but the way we express them matters.
 Asking to be assigned is normal, but the way you phrase it matters — request, don't demand.
 
 > **Bad:** "You must assign this issue to me."
-> **Bad:** "I should be assigned to this issue."
 
 > **Good:** "Could you please assign this issue to me? I’d like to work on it."
-> **Good:**  "Can I work on this?"
 
 
 ## Contributing
