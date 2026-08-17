@@ -2,7 +2,8 @@ name: Deploy docs
 on:
   push:
     branches: [master]
-  
+    paths: ['docs/**', '**/*.md', 'mkdocs.yml', 'pyproject.toml']
+
 permissions:
   contents: write
 
