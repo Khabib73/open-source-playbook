@@ -2,7 +2,7 @@ name: Deploy docs
 on:
   push:
     branches: [master]
-    paths: ['docs/**', '**/*.md', 'mkdocs.yml', 'pyproject.toml']
+    paths: ['docs/**', '**/*.md', 'mkdocs.yml', 'pyproject.toml', 'poetry.lock ']
 
 permissions:
   contents: write
