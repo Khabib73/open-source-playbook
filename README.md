@@ -56,6 +56,15 @@ Disagreements are natural, but the way we express them matters.
 
 > **Good:** "I see things a bit differently. Here's my perspective — what do you think?"
 
+### Asking to be assigned
+
+Asking to be assigned is normal, but the way you phrase it matters — request, don't demand.
+
+> **Bad:** "You must assign this issue to me."
+
+> **Good:** "Could you please assign this issue to me? I’d like to work on it."
+
+
 ## Contributing
 
 Feel free to open an issue or submit a pull request with new examples and suggestions. Together we can make open-source communication better for everyone.
