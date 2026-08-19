@@ -66,7 +66,7 @@ A little appreciation goes a long way in open-source.
 
 Disagreements are natural, but the way we express them matters.
 
-> **Bad:** "You're wrong.``"
+> **Bad:** "You're wrong."
 
 > **Good:** "I see things a bit differently. Here's my perspective — what do you think?"
 
