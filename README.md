@@ -6,6 +6,14 @@
 
 A practical guide to effective communication in the open-source community — especially for non-native English speakers.
 
+<div align="center">
+
+### 📚 Read the full documentation
+
+[**open-source-playbook docs**](https://khabib73.github.io/open-source-playbook/) — ready-to-use phrases, examples, and communication guides.
+
+</div>
+
 ## What is open-source-playbook
 
 Many people communicate in English, even though it is not their native language. This often leads to awkward or confusing situations when working on open-source projects. The goal of this playbook is to help you communicate more clearly and professionally with the open-source community.
@@ -77,8 +85,6 @@ Asking to be assigned is normal, but the way you phrase it matters — request, 
 > **Bad:** "You must assign this issue to me."
 
 > **Good:** "Could you please assign this issue to me? I’d like to work on it."
-
-See full documentation [here](https://khabib73.github.io/open-source-playbook/).
 
 
 ## Contributing
