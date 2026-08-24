@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/khabib73/open-source-playbook?style=social)](https://github.com/Khabib73/open-source-playbook)
 [![test](https://github.com/khabib73/open-source-playbook/actions/workflows/docs.yml/badge.svg)](https://github.com/Khabib73/open-source-playbook/blob/master/.github/workflows/docs.yml)
 [![Docs](https://img.shields.io/badge/docs-mkdocs-blue)](https://khabib73.github.io/open-source-playbook/)
-[![](https://img.shields.io/badge/Communication%20Guidelines-8A2BE2?style=flat)]([https://github.com/Khabib73/open-source-playbook](https://github.com/Khabib73/open-source-playbook/blob/master/COMMUNICATION.md))
+[![](https://img.shields.io/badge/Communication%20Guidelines-8A2BE2?style=flat)](https://github.com/Khabib73/open-source-playbook/blob/master/COMMUNICATION.md)
 
 
 A practical guide to effective communication in the open-source community — especially for non-native English speakers.
