@@ -21,3 +21,15 @@ theme:
 
 repo_url: https://github.com/Khabib73/open-source-playbook
 repo_name: open-source-playbook
+
+nav:
+  - Home: index.md
+  - Basics:
+    - Bad vs Good patterns: basics/bad-vs-good.md
+  - Communication intents:
+      - Saying thanks: intents/thanks.md
+      - Asking for help: intents/asking-help.md
+      - Giving code feedback: intents/code-feedback.md
+      - Proposing changes: intents/proposing-changes.md
+      - Handling disagreements: intents/disagreements.md
+      - Asking to be assigned: intents/assignment.md

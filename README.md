@@ -8,6 +8,14 @@
 
 A practical guide to effective communication in the open-source community — especially for non-native English speakers.
 
+<div align="center">
+
+### 📚 Read the full documentation
+
+[**open-source-playbook docs**](https://khabib73.github.io/open-source-playbook/) — ready-to-use phrases, examples, and communication guides.
+
+</div>
+
 ## What is open-source-playbook
 
 Many people communicate in English, even though it is not their native language. This often leads to awkward or confusing situations when working on open-source projects. The goal of this playbook is to help you communicate more clearly and professionally with the open-source community.
