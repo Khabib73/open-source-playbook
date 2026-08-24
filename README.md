@@ -78,6 +78,8 @@ Asking to be assigned is normal, but the way you phrase it matters — request, 
 
 > **Good:** "Could you please assign this issue to me? I’d like to work on it."
 
+See full documentation [here](https://khabib73.github.io/open-source-playbook/).
+
 
 ## Contributing
 
